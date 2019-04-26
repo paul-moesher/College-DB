@@ -1,2 +1,2 @@
 # College-DB
-T-SQL Database for college students information.
+T-SQL database for college students information.
